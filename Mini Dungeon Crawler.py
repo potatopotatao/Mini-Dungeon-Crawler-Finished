@@ -9,7 +9,7 @@ pygame.init()
 
 WIDTH, HEIGHT = 1200, 1000
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("Micro RPG Arena")
+pygame.display.set_caption("Mini Dungeon Crawler")
 
 clock = pygame.time.Clock()
 FPS = 60
